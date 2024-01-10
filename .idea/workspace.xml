@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f88effdd-a2f5-4a5f-8b8f-8930d3376e65" name="Changes" comment="TD_SITD">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TDJAVA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TD2/exer1/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TD2/exer1/point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TD2/exer2/Point1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TD2/exer2/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TD2/exer3/Livre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TD2/exer3/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TD2/exer4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TD2/exer4/Temps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TD2/exer5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TD2/exer5/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TD2/exer6/Banque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TD2/exer6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TD3/exo1/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TD3/exo1/PointA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TD3/exo1/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TD3/exo2/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TD3/exo2/PointNom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TD3/exo2/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TD3/exo3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TD3/exo3/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TD3/exo4/Immeuble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TD3/exo4/Maison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TD3/exo4/TestBatiment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TD3/exo5/Moto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TD3/exo5/Triporteur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TD3/exo5/Vehicule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TD3/exo6/Figure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TD3/exo6/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TD3/exo6/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TD3/exo6/TestFigure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TD3/exo7/Patron.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TD3/exo7/TestEmploye.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TD3/exo7/TravailleurCommission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TD3/exo7/TravailleurHoraire.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2aPkkGytlxwjuYvBPRwl2d4cI2x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="TD3.exo1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TD2.exer2.main" />
+      <module name="TDJAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TD2.exer2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f88effdd-a2f5-4a5f-8b8f-8930d3376e65" name="Changes" comment="" />
+      <created>1704227746647</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704227746647</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="TD_SITD" />
+    <option name="LAST_COMMIT_MESSAGE" value="TD_SITD" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TD2/exer5/Main.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
